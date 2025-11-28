@@ -2,7 +2,7 @@
 
 int main(void){
 	int a = 15;							
-	printf("This is C");
+	printf("
 	return 0;
 } 	
 
