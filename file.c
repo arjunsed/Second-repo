@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	int a = 34;							
+	int a = 15;							
 	printf("This is C");
 	return 0;
 } 	
